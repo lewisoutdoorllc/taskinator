@@ -25,7 +25,7 @@ var taskDataObj = {
 
         // send it as an argument to createTaskEl
   createTaskEl(taskDataObj);
-};
+}; 
 
 var createTaskEl = function(taskDataObj) {
         // create list item
